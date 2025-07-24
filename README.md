@@ -5,7 +5,7 @@ With the increasing capability of large language models (LLMs), LLM-as-a-judge h
 
 ## Overview
 <div align="center">
-  <img src="images/Praetor.png" alt="Praetor" width="600" />
+  <img src="images/Praetor.png" alt="Praetor" width="500" />
 </div>
 Figure 1: Praetor is a Chinese and English LLM evaluator that supports both pointwise grading and pairwise comparison with high flexibility.
 
