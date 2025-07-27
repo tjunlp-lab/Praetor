@@ -25,3 +25,13 @@ The instruction templates for various evaluation modes can be found in prompt_te
 ```python
 python inference.py
 ```
+## Citation
+```
+@inproceedings{leng2025praetor,
+  title={Praetor: A Fine-Grained Generative LLM Evaluator with Instance-Level Customizable Evaluation Criteria},
+  author={Leng, Yongqi and Jin, Renren and Chen, Yue and Han, Zhuowen and Shi, Ling and Peng, Jianxiang and Yang, Lei and Xiao, Juesi and Xiong, Deyi},
+  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={10386--10418},
+  year={2025}
+}
+```
